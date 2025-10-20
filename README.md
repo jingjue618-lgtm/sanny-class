@@ -62,7 +62,7 @@ export default class Demo {
 ```
 
 ### 模板代码高亮
-在template中定义的html模板高亮展示，需要在字符串前加上/* html */，无需再单独使用其他插件
+在template中定义的html模板高亮展示，需要在字符串前加上/* html */
 
 ```javascript
 export default class Demo {
@@ -76,9 +76,10 @@ export default class Demo {
 ### HTML 属性补全
 
 ```html
-<div class="container" s-if="condition">
+<div class="container" s-if="condition" on-click="handleClick">
     <!-- 输入空格后会自动提示 class, id, style 等属性 -->
     <!-- 输入 s- 会自动提示 San 指令 -->
+     <!-- 输入 on- 会自动提示 事件属性 -->
 </div>
 ```
 
@@ -111,12 +112,13 @@ static components = {
 
 ## 更新日志
 
-### v0.0.1 (当前版本)
+### v0.0.1
 - ✅ San 类模板快速生成
+- ✅ HTML 代码高亮
 - ✅ HTML 属性智能补全  
 - ✅ San 指令补全支持
 - ✅ 自定义组件补全功能
-- ✅ 标准 HTML5 标签全面支持
+- ✅ 标准 HTML5 属性全面支持
 
 
 **享受更高效的 San 框架开发体验！** 🎉
