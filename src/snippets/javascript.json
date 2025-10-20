@@ -1,0 +1,30 @@
+{
+    "tdg": {
+        "prefix": "tdg",
+        "body": [
+            "this.data.get('$1');"
+        ],
+        "description": "just a word"
+    },
+    "tds": {
+        "prefix": "tds",
+        "body": [
+            "this.data.set('$1');"
+        ],
+        "description": "just a word"
+    },
+    "tw": {
+        "prefix": "tw",
+        "body": [
+            "this.watch('$1');"
+        ],
+        "description": "just a word"
+    },
+    "tsd": {
+        "prefix": "tsd",
+        "body": [
+            "this.storeDispatch('$1');"
+        ],
+        "description": "just a word"
+    }
+}
