@@ -123,6 +123,9 @@ static components = {
 
 ## 更新日志
 
+### v0.0.3
+- ✅ fix
+
 ### v0.0.1
 - ✅ San 类模板快速生成
 - ✅ HTML 代码高亮
