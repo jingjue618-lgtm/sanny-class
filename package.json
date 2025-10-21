@@ -2,15 +2,15 @@
   "name": "sanny-class",
   "displayName": "sanny-class",
   "description": "san class",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.47.0"
   },
   "publisher": "sanny-class",
   "repository": {
     "type": "git",
-		"url": "https://github.com/jingjue618-lgtm/sanny-class"
-	},
+    "url": "https://github.com/jingjue618-lgtm/sanny-class"
+  },
   "categories": [
     "Other"
   ],
