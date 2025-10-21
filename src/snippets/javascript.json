@@ -26,5 +26,47 @@
             "this.storeDispatch('$1');"
         ],
         "description": "just a word"
+    },
+    "compiled": {
+        "prefix": "compiled",
+        "body": [
+            "compiled() {$1}"
+        ],
+        "description": "just a word"
+    },
+    "inited": {
+        "prefix": "inited",
+        "body": [
+            "inited() {$1}"
+        ],
+        "description": "just a word"
+    },
+    "created": {
+        "prefix": "created",
+        "body": [
+            "created() {$1}"
+        ],
+        "description": "just a word"
+    },
+    "attached": {
+        "prefix": "attached",
+        "body": [
+            "attached() {$1}"
+        ],
+        "description": "just a word"
+    },
+    "detached": {
+        "prefix": "detached",
+        "body": [
+            "detached() {$1}"
+        ],
+        "description": "just a word"
+    },
+    "disposed": {
+        "prefix": "disposed",
+        "body": [
+            "disposed() {$1}"
+        ],
+        "description": "just a word"
     }
 }
