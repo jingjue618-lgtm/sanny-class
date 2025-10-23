@@ -1,6 +1,6 @@
 # sanny-class - San 类组件框架开发助手
 
-一个专为 San 类组件框架开发的 VS Code 扩展，提供智能代码补全和开发效率提升功能。
+一个专为 San 类组件框架开发的 VS Code 扩展，提供代码提示、补全等功能，提高开发效率。
 
 ## 功能特性
 
@@ -42,7 +42,7 @@
 
 ### 从 VS Code Marketplace 安装
 1. 打开 VS Code
-2. 进入扩展面板 (Ctrl+Shift+X)
+2. 进入扩展面板 
 3. 搜索 "sanny-class"
 4. 点击安装
 
